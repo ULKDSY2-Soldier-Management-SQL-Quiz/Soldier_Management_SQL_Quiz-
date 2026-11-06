@@ -1,0 +1,22 @@
+POSTGRESQL ASSIGNMENT - SAMPLE DATA COUNTS
+These counts were checked in SQLite after adapting the PostgreSQL syntax.
+They are not a PostgreSQL execution log and do not use the teacher's original data.
+
+C1: 10 rows
+C2: 10 rows
+C3: 3 rows
+C4: 3 rows
+C5: 9 rows
+C6: 33 rows
+C7: 6 rows
+C8: 10 rows
+C9: 7 rows
+C10: 6 rows
+D3: 7 rows
+
+Total soldiers: 33
+Total mission assignments: 34
+C4 soldier IDs: 13, 18, 23
+C9 soldier IDs: 5, 10, 15, 20, 25, 30, 33
+
+D1: Record actual PostgreSQL EXPLAIN plans before and after the index.
